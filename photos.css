@@ -1,0 +1,19 @@
+body{
+	background-color: gray;
+}
+hr{
+	align-self: center;
+	width:33%;
+	border-top:1px dashed white;
+}
+h1{
+font-family: 'Abril Fatface', cursive;
+text-transform: uppercase;
+text-align: center;
+}
+img {
+	width:30%;
+	float: left;
+	margin:1.66%;
+}
+/* We have 6 margins per row */
